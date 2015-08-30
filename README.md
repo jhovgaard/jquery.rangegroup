@@ -5,6 +5,8 @@ Simple plugin to group input ranges. The ranges will be limited by a shared max 
 
 <img src="https://raw.githubusercontent.com/jhovgaard/jquery.rangegroup/master/jquery.rangegroup.gif" />
 
+Live example: http://jsfiddle.net/pfcjjkb7/
+
 ## Usage
 
 First include jQuery and the rangegroup file:
