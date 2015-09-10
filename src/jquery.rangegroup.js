@@ -24,6 +24,7 @@ $(document).on('input', 'input[range-group]', function() {
       };
       var newValue = parseInt($item.val()) + half;
       $item.val(newValue);
+      $item.trigger('change');
     });
   }
 });
